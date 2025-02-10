@@ -8,7 +8,6 @@ dist/
 # Docker-related files
 .docker/
 docker-compose.override.yml
-Dockerfile*
 
 # Logs
 npm-debug.log*
